@@ -1,33 +1,42 @@
 <div align="center">
 
-<img src="./hero.svg" alt="Muhammad Rizki Surya Pratama - Software Engineering Student" width="100%" />
+<img src="./banner.svg" alt="Rizki - Creative Developer. Full Stack Developer and UI Designer." width="100%" />
 
 <br/>
 
 <a href="https://github.com/kiiiihasss?tab=followers"><img src="https://img.shields.io/github/followers/kiiiihasss?style=flat-square&label=followers&labelColor=0b0d10&color=ffb454" alt="followers" /></a>
 <a href="https://github.com/kiiiihasss?tab=repositories"><img src="https://img.shields.io/github/stars/kiiiihasss?style=flat-square&label=stars&labelColor=0b0d10&color=ffb454" alt="stars" /></a>
-<a href="https://github.com/kiiiihasss?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kiiiihasss&query=$.public_repos&style=flat-square&label=repositories&labelColor=0b0d10&color=ffb454" alt="repositories" /></a>
 
 </div>
 
-<img src="./rule.svg" width="100%" alt="" />
+<img src="./ticker.svg" width="100%" alt="Stack: Flutter, JavaScript, React, Tailwind CSS, Bootstrap, HTML5, CSS3, Laravel, Go, Node.js, PHP, MySQL, SQLite, Git, GitHub, VS Code, Framer, Canva" />
 
-<img src="./about.svg" width="100%" alt="Profile: Software Engineering Student at IDN Boarding School, focused on full-stack web, mobile and AI." />
+<img src="./line.svg" width="100%" alt="" />
 
-<img src="./rule.svg" width="100%" alt="" />
+<img src="./profile.svg" width="100%" alt="Profile: Full Stack Developer and UI Designer based in Bekasi, Indonesia. Student at SMK IDN Islamic Boarding School, Software Engineering." />
 
-<img src="./stack.svg" width="100%" alt="Stack: Flutter, JavaScript, React, Tailwind CSS, Bootstrap, HTML5, CSS3, Laravel, Go, Node.js, PHP, MySQL, SQLite, Git, GitHub, Visual Studio Code, Framer, Canva" />
+<img src="./line.svg" width="100%" alt="" />
 
-<img src="./rule.svg" width="100%" alt="" />
+<img src="./journey.svg" width="100%" alt="Education: SMP Bina Qurani IBS (2023-2025), SMK IDN Islamic Boarding School (2025-present)" />
+
+<img src="./line.svg" width="100%" alt="" />
+
+<a href="https://rizki-portfolio-self.vercel.app/"><img src="./portfolio.svg" width="100%" alt="Visit portfolio: rizki-portfolio-self.vercel.app" /></a>
+
+<img src="./line.svg" width="100%" alt="" />
 
 <div align="center">
 
-<a href="mailto:kiiiii.idn@gmail.com"><img src="https://img.shields.io/badge/email-kiiiii.idn%40gmail.com-ffb454?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0d10" alt="email" /></a>
-<a href="https://www.instagram.com/m.rizzzz.97/"><img src="https://img.shields.io/badge/instagram-%40m.rizzzz.97-ffb454?style=flat-square&logo=instagram&logoColor=white&labelColor=0b0d10" alt="instagram" /></a>
-<a href="https://www.linkedin.com/in/muhammad-rizki-suryapratama/"><img src="https://img.shields.io/badge/linkedin-Muhammad%20Rizki-ffb454?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0d10" alt="linkedin" /></a>
+<a href="https://rizki-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit%20site-ffb454?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0b0d10" alt="portfolio" /></a>
+<a href="https://github.com/kiiiihasss"><img src="https://img.shields.io/badge/github-kiiiihasss-21262d?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d10" alt="github" /></a>
+<a href="https://www.linkedin.com/in/kiiiihassss"><img src="https://img.shields.io/badge/linkedin-kiiiihassss-21262d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0d10" alt="linkedin" /></a>
+<br/>
+<a href="https://www.instagram.com/m.rizzzz.97/"><img src="https://img.shields.io/badge/instagram-%40m.rizzzz.97-21262d?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0d10" alt="instagram" /></a>
+<a href="https://www.youtube.com/@m.rizzzz.97"><img src="https://img.shields.io/badge/youtube-%40m.rizzzz.97-21262d?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0b0d10" alt="youtube" /></a>
+<a href="mailto:rizkisuryapratama2020@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-21262d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0d10" alt="email" /></a>
 
 </div>
 
 <br/>
 
-<img src="./outro.svg" width="100%" alt="Keep learning, keep building." />
+<img src="./end.svg" width="100%" alt="Keep learning, keep building." />
